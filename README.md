@@ -1,2 +1,2 @@
 # tiger-appender
-Script to append multiple shapefiles with the same format (e.g. TIGER/Line) into one PostGIS table
+Collection of shell scripts to assist with managing [shapefiles downloaded from the U.S. Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles2014/main)
